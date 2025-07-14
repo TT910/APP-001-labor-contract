@@ -1,17 +1,4 @@
-.
-├── .stackblitzrc
-├── package.json
-├── tailwind.config.js
-├── public
-│   └── index.html
-└── src
-    ├── components
-    │   ├── AdminPanel.js
-    │   ├── ContractForm.js
-    │   └── Layout.js
-    ├── pages
-    │   ├── ContractDetailPage.js
-    │   ├── ContractEditorPage.js
-    │   └── DashboardPage.js
-    ├── App.js
-    └── index.css
+{
+  "installDependencies": true,
+  "startCommand": "npm start"
+}
